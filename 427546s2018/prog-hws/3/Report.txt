@@ -1,0 +1,13 @@
+Name: Rohan Girase. 
+
+Email Address- rohan_girase@student.uml.edu
+
+Computer Graphics Assignment 3.
+
+I have selected Gateway of India as object for my project. I will be applying all the features on the same object. As of first project iteration, I will be showing top, front, side view.    
+
+
+
+References:
+http://www.html5canvastutorials.com/tutorials/html5-canvas-lines/
+http://www.arungudelli.com/html5/html5-canvas-polygon/
