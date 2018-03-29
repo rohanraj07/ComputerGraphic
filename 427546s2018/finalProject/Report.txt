@@ -2,7 +2,7 @@ Name: Rohan Girase.
 
 Email Address- rohan_girase@student.uml.edu
 
-Computer Graphics Assignment 3.
+Computer Graphics finalProject.
 
 I have selected Gateway of India as object for my project. I will be applying all the features on the same object. As of first project iteration, I will be showing top, front, side view.    
 

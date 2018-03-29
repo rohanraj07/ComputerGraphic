@@ -2,11 +2,11 @@ Name: Rohan Girase.
 
 Email Address- rohan_girase@student.uml.edu
 
-Computer Graphics Assignment 3.
+Computer Graphics Project.
 
 Steps:-
 
-1.	Open ComputerGraphicsA3.html file. 
+1.	Open finalProject.html file. 
 2. 	You will be able to see three views.
 
 
