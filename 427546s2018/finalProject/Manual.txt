@@ -10,12 +10,13 @@ Steps:-
 2. 	You will be able to see three views.
 3.	Also, there is link for oblique view of 2D object.
 4.	There is link for 3-D perspective view. The file contains 
-	a.One Point Perspective
-	b.Two Point Perspective
-	c.3 Point Perspective
-
-
-
+		a.One Point Perspective
+		b.Two Point Perspective
+		c.3 Point Perspective
+5.	Added link for Axonometric Views.
+		a. Isometric
+		b. DiMetric
+		c. Tri Metric
 
 References:
 http://www.html5canvastutorials.com/tutorials/html5-canvas-lines/
