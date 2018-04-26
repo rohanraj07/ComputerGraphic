@@ -4,7 +4,7 @@ Email Address- rohan_girase@student.uml.edu
 
 Computer Graphics finalProject.
 
-I have selected Gateway of India as object for my project. I will be applying all the features on the same object. As of first project iteration, I will be showing top, front, side view, oblique view. For week 3, I have managed to complete 3-D perspective view. For week 4, I have managed to create Axonometric Views for my object.
+I have selected Gateway of India as object for my project. I will be applying all the features on the same object. As of first project iteration, I will be showing top, front, side view, oblique view. For week 3, I have managed to complete 3-D perspective view. For week 4, I have managed to create Axonometric Views for my object. For week 5, I have managed to Rotate, Translate, Scale, Shear my object.
 
 
 

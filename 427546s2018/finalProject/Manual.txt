@@ -17,6 +17,12 @@ Steps:-
 		a. Isometric
 		b. DiMetric
 		c. Tri Metric
+6.	Added link for 3D transformations
+
+		a. Rotate
+		b. Translate
+		c. Scale
+		d. Shear
 
 References:
 http://www.html5canvastutorials.com/tutorials/html5-canvas-lines/
