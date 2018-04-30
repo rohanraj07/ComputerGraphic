@@ -7,8 +7,8 @@ Computer Graphics Final Project.
 Steps:-
 
 1.	Open finalProject.html file. 
-2. 	You will be able to see three views.
-3.	Also, there is link for oblique view of 2D object.
+2. 	You will be able to see tlinks for various features.
+3.	There is link for 2D elevation and oblique view of 2D object.
 4.	There is link for 3-D perspective view. The file contains 
 		a.One Point Perspective
 		b.Two Point Perspective
