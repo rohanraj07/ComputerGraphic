@@ -2,7 +2,7 @@ Name: Rohan Girase.
 
 Email Address- rohan_girase@student.uml.edu
 
-Computer Graphics Project.
+Computer Graphics Final Project.
 
 Steps:-
 
@@ -23,7 +23,17 @@ Steps:-
 		b. Translate
 		c. Scale
 		d. Shear
+		
+7.	Added link for Texture 
+		a. Left view
+		b. Right view
 
 References:
-http://www.html5canvastutorials.com/tutorials/html5-canvas-lines/
-http://www.arungudelli.com/html5/html5-canvas-polygon/
+1.https://developer.mozilla.org/en-US/docs/Web/SVG
+2.https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
+3.https://css-tricks.com/transforms-on-svg-elements/
+5.http://edutechwiki.unige.ch/en/Using_SVG_with_HTML5_tutorial
+6.http://svgjs.com/importing-exporting/
+7.https://threejs.org/examples/#webgl_geometry_shapes
+8.https://threejs.org/
+9.https://www.safaribooksonline.com/library/view/javascript-cookbook/9781449390211/ch15s08.html

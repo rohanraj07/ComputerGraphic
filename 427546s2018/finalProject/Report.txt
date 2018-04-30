@@ -2,12 +2,28 @@ Name: Rohan Girase.
 
 Email Address- rohan_girase@student.uml.edu
 
-Computer Graphics finalProject.
+Computer Graphics Final Project.
 
-I have selected Gateway of India as object for my project. I will be applying all the features on the same object. As of first project iteration, I will be showing top, front, side view, oblique view. For week 3, I have managed to complete 3-D perspective view. For week 4, I have managed to create Axonometric Views for my object. For week 5, I have managed to Rotate, Translate, Scale, Shear my object.
+I have selected Gateway of India as object for my project. I will be applying all the features on the same object. As of first project iteration, I will be showing top, front, side view, oblique view. For week 3, I have managed to complete 3-D perspective view. For week 4, I have managed to create Axonometric Views for my object. For week 5, I have managed to Rotate, Translate, Scale, Shear my object. For week 6, I managed to generate texture for my object. I have provided two links for viewing the object i.e. Left side and Right side.
+
+I have implemented rotation on the front view, it is invoked from a call to the JavaScript function “rotateElement(), passing the values as degrees”. I have implemented translation on the side view, it is invoked from a call to the JavaScript function “translateElement(), passing the values as X or Y axis”. I have implemented scaling on the top view, it is invoked from a call to the JavaScript function “scaleElement(), passing the values in X or Y decimal points, such that fig = decimalPoints*(X, Y) ”. I have implemented Sheering(Either X or Y axis) on the top view, it is invoked from a call to the JavaScript function “skewElement(), it can be termed as skewX(x, y) or skewY(x, y)”.
+
+I have used the elements: line, polyline, rectangle, circle, path and text provided by <svg> to create the  following figure, for drawing the smile and teeth, I’ve used the concept of Bezier curve.
+
+The entire program has been coded by myself.
+
+
+Challenges faced:
+I had to learn the concept of SVG(scalable vector graphics ) and all the elements associated with it. Understanding the import, export and embedding of the object along with the co-ordinates mapping for the transformation matrix. I learnt Three js to implement this project. I also had to learn OpenGL framework. While coding I had to face many semantic and syntactical errors. 
 
 
 
 References:
-http://www.html5canvastutorials.com/tutorials/html5-canvas-lines/
-http://www.arungudelli.com/html5/html5-canvas-polygon/
+1.https://developer.mozilla.org/en-US/docs/Web/SVG
+2.https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
+3.https://css-tricks.com/transforms-on-svg-elements/
+5.http://edutechwiki.unige.ch/en/Using_SVG_with_HTML5_tutorial
+6.http://svgjs.com/importing-exporting/
+7.https://threejs.org/examples/#webgl_geometry_shapes
+8.https://threejs.org/
+9.https://www.safaribooksonline.com/library/view/javascript-cookbook/9781449390211/ch15s08.html
